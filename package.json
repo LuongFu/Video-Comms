@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://video-comms-fe.onrender.com",
   "dependencies": {
-    "@headlessui/react": "^2.2.0",
+    "@headlessui/react": "^2.2.8",
     "@heroicons/react": "^2.2.0",
     "@popperjs/core": "^2.11.8",
     "@videosdk.live/react-sdk": "^0.2.1",
